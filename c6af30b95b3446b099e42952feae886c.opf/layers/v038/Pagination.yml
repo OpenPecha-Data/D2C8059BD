@@ -14,14 +14,14 @@ annotations:
     reference: ''
     span:
       start: 746
-      end: 2047
+      end: 2049
     note_ref: 7d5176b7654840e6838b5d9636f0e8ba
   7d5176b7654840e6838b5d9636f0e8ba:
     imgnum: 558
     reference: ''
     span:
-      start: 2049
-      end: 2578
+      start: 2051
+      end: 2580
 local_ids:
   1f2cafd13337453987050080fc62045d: 200000
   04f7d185a5a6425281318e5fbbc60da4: 200001
